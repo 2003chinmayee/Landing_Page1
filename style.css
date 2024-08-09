@@ -10,7 +10,8 @@ html,body{
 }
 .container{
     height:100%;
-    width:100%;
+    width:90%;
+    margin-left: 5%;
     /* background-color: aqua; */
     display:grid;
     grid-template-columns: 25% 25% 50%;
