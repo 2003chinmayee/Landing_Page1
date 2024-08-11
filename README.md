@@ -6,7 +6,7 @@ This project is a modern and responsive landing page for a fashion website, buil
 
 
 
-## 👠 Key Features 
+##  Key Features 
 
 1.Responsive Design: Looks great on any device.
 
@@ -16,7 +16,7 @@ This project is a modern and responsive landing page for a fashion website, buil
 
 4.Intuitive Navigation: Easy-to-use menu for seamless browsing
 
-## 🧢Technologies 
+## Technologies 
 1.HTML5
 
 2.CSS3
@@ -30,7 +30,6 @@ This project is a modern and responsive landing page for a fashion website, buil
 ![App Screenshot](https://github.com/2003chinmayee/Landing_Page1/blob/12af1937c7f2b7c9ba8c54951b69e4fbbbcbe5e2/Screenshot%202024-08-09%20141731.png)
 
 
-## Hi i am chinmayee 😄👩‍💻
 
 Email: your-email@example.com
 GitHub: 2003chinmayee
